@@ -42,6 +42,8 @@ For this we use the nltk module. NLTK (Natural Language Toolkit) is a leading pl
 
 - file: modele.ipynb
 
+![alt text](https://github.com/chaimaeAH/chatbot/blob/master/model_pic.png)
+
 # Implement The Training Pipeline
 
 - file: train.ipynb
