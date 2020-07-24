@@ -49,9 +49,9 @@ For this we use the nltk module. NLTK (Natural Language Toolkit) is a leading pl
 # Implement The Chat
 Load the trained model and make predictions for new sentences:
 
--file: chat.ipynb
+- file: chat.ipynb
 
 # Watch the Presentation video 
 
-![alt text](https://www.youtube.com/watch?v=ZLMJkteeuOI&t=61s)
+![Watch the video](https://www.youtube.com/watch?v=ZLMJkteeuOI&t=61s)
 
