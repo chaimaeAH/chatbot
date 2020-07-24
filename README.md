@@ -55,5 +55,5 @@ Load the trained model and make predictions for new sentences:
 
 # Watch the Presentation video 
 
-![Watch the video](https://www.youtube.com/watch?v=Gl96mdOO9Zs)
+(https://www.youtube.com/watch?v=Gl96mdOO9Zs)
 
